@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://onpay.my/r/Muaz/$1"
+ }
+  ]
+}
